@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abeezee</item>
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/actor</item>
+        <item>@font/akaya_telivigala</item>
+        <item>@font/akronim</item>
+        <item>@font/aldrich</item>
+        <item>@font/amita</item>
+        <item>@font/andika_new_basic</item>
+        <item>@font/annie_use_your_telescope</item>
+        <item>@font/atomic_age</item>
+        <item>@font/b612_mono</item>
+        <item>@font/gfs_neohellenic</item>
+        <item>@font/just_me_again_down_here</item>
+        <item>@font/waiting_for_the_sunrise</item>
+    </array>
+</resources>
